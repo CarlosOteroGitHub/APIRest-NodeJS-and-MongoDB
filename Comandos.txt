@@ -1,0 +1,19 @@
+========================================================== COMANDOS ==========================================================
+
+° npm install express --save: Comando utilizado para instalar la última versión de Express.
+
+° npm install -g express-generator: Comando utilizado para montar la estructura de un proyecto de Node JS.
+
+° express [nombre_proyecto]: Comando utilizado para generar carpetas y archivos de un proyecto ExpressJS.
+
+° npm install nodemon -g: Comando utilizado para instalar la última versión de Nodemon.
+
+° npm install body-parser -g: Comando utilizado para instalar la última versión de body parser. Útil para la recepción de datos.
+
+° npm install mongoose: Comando utilizado para instalar las librerias de MongoDB para ser integradas en el proyecto.
+
+° npm install: Comando utilizado para descargar las dependencias requeridas en el proyecto.
+
+° npm run start: Comando utilizado para correr el servidor de Node JS. El servidor corre por defecto en el navegador con la dirección localhost:3000
+
+° mongod: Comando utilizado para correr el servidor de MongoDB (Se tiene que ejecutar sobre otra ventana de linea de comandos).
